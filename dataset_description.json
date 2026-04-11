@@ -1,46 +1,46 @@
 {
-	"Name": "Brandl2020",
-	"BIDSVersion": "1.9.0",
-	"HEDVersion": "8.4.0",
-	"DatasetType": "derivative",
-	"License": "CC-BY-NC-ND-4.0",
-	"Authors": [
-		"Stephanie Brandl",
-		"Benjamin Blankertz",
-		"Tobias Dahne"
-	],
-	"HowToAcknowledge": "Please cite: Brandl, S. and Blankertz, B. (2020). Motor Imagery Under Distraction -- An Open Access BCI Dataset. Frontiers in Neuroscience, 14, 566147. https://doi.org/10.3389/fnins.2020.566147",
-	"Funding": [
-		"BMBF/BIFOLD (01IS18025A, 01IS18037A)"
-	],
-	"EthicsApprovals": [
-		"Approved by the ethics committee of the Charite University Medicine Berlin"
-	],
-	"ReferencesAndLinks": [
-		"https://depositonce.tu-berlin.de/handle/11303/10934.2"
-	],
-	"DatasetDOI": "doi:10.3389/fnins.2020.566147",
-	"GeneratedBy": [
-		{
-			"CodeURL": "https://github.com/NeuroTechX/moabb",
-			"Name": "moabb",
-			"Description": "Mother of All BCI Benchmarks",
-			"Version": "1.5.0"
-		}
-	],
-	"SourceDatasets": [
-		{
-			"DOI": "10.3389/fnins.2020.566147",
-			"URL": "https://depositonce.tu-berlin.de/handle/11303/10934.2"
-		}
-	],
-	"Keywords": [
-		"brain-computer interface",
-		"motor imagery",
-		"EEG",
-		"distraction",
-		"open access",
-		"BCI"
-	],
-	"PublicationYear": 2020
+  "Name": "Brandl et al. 2020 — EEG dataset",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-NC-ND-4.0",
+  "Authors": [
+    "Stephanie Brandl",
+    "Benjamin Blankertz",
+    "Tobias Dahne"
+  ],
+  "HowToAcknowledge": "Please cite: Brandl, S. and Blankertz, B. (2020). Motor Imagery Under Distraction -- An Open Access BCI Dataset. Frontiers in Neuroscience, 14, 566147. https://doi.org/10.3389/fnins.2020.566147",
+  "Funding": [
+    "BMBF/BIFOLD (01IS18025A, 01IS18037A)"
+  ],
+  "EthicsApprovals": [
+    "Approved by the ethics committee of the Charite University Medicine Berlin"
+  ],
+  "ReferencesAndLinks": [
+    "https://depositonce.tu-berlin.de/handle/11303/10934.2"
+  ],
+  "DatasetDOI": "doi:10.3389/fnins.2020.566147",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.5.0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.3389/fnins.2020.566147",
+      "URL": "https://depositonce.tu-berlin.de/handle/11303/10934.2"
+    }
+  ],
+  "Keywords": [
+    "brain-computer interface",
+    "motor imagery",
+    "EEG",
+    "distraction",
+    "open access",
+    "BCI"
+  ],
+  "PublicationYear": 2020
 }
