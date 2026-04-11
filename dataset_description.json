@@ -1,5 +1,5 @@
 {
-  "Name": "Brandl et al. 2020 — EEG dataset",
+  "Name": "Brandl et al. 2020 — Motor Imagery Under Distraction: An Open Access BCI Dataset",
   "BIDSVersion": "1.9.0",
   "HEDVersion": "8.4.0",
   "DatasetType": "derivative",
