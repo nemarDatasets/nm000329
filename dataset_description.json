@@ -19,7 +19,7 @@
   "ReferencesAndLinks": [
     "https://depositonce.tu-berlin.de/handle/11303/10934.2"
   ],
-  "DatasetDOI": "doi:10.3389/fnins.2020.566147",
+  "DatasetDOI": "10.82901/nemar.nm000329",
   "GeneratedBy": [
     {
       "CodeURL": "https://github.com/NeuroTechX/moabb",
@@ -32,6 +32,9 @@
     {
       "DOI": "10.3389/fnins.2020.566147",
       "URL": "https://depositonce.tu-berlin.de/handle/11303/10934.2"
+    },
+    {
+      "DOI": "doi:10.3389/fnins.2020.566147"
     }
   ],
   "Keywords": [
