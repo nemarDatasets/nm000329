@@ -1,0 +1,100 @@
+{
+ "dataset": "nm000329",
+ "moabb_class": "Brandl2020",
+ "moabb_version_used": "1.5.0",
+ "retrieved": "2026-08-11",
+ "retrieved_by": "moabb.datasets.Brandl2020.data_path()",
+ "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-brandl2020-data/bitstreams/handle/11303/10934.2",
+ "license": "CC-BY-NC-ND-4.0",
+ "doi": "10.3389/fnins.2020.566147",
+ "naming": "upstream_filenames_restored",
+ "n_files": 17,
+ "total_bytes": 22202,
+ "files": [
+  {
+   "file": "mnt.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp1.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp10.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp11.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp12.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp13.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp14.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp15.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp16.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp2.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp3.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp4.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp5.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp6.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp7.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp8.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  },
+  {
+   "file": "pp9.mat",
+   "bytes": 1306,
+   "sha256": "47a4a342686ad5a5d2d0f23b4dbd1e88611daaa399e398689f8adbf7b6425d25"
+  }
+ ]
+}
