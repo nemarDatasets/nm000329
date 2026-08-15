@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
   "title": "Brandl et al. 2020 — Motor Imagery Under Distraction: An Open Access BCI Dataset",
-  "description": "An open-access electroencephalography dataset of motor imagery brain-computer interface performance under six different distraction conditions. Sixteen healthy participants performed left versus right hand motor imagery while experiencing flickering video, number search tasks, news listening, eyes closed state, vibro-tactile stimulation, or no distraction. The dataset comprises 504 trials per subject acquired across one calibration run and six feedback runs, providing a resource for investigating the robustness of motor imagery-based BCIs under realistic cognitive load.",
-  "methods_description": "EEG data were recorded from 16 healthy participants at 1000 Hz sampling rate using 63 channels (10-20 montage, nose reference) with two BrainAmp amplifiers (Brain Products). Participants completed one session consisting of seven runs of 72 trials each: one calibration run without feedback or distraction, followed by six feedback runs under different distraction conditions. Motor imagery trials lasted 4.5 seconds with 2.5-second inter-trial intervals. Auditory cues ('links' for left, 'rechts' for right) indicated the imagery task. Online classification employed Common Spatial Pattern (CSP) filtering with Linear Discriminant Analysis (LDA).",
+  "description": "An open-access electroencephalography dataset of motor imagery brain-computer interface performance under six different distraction conditions. Sixteen healthy participants performed left versus right hand motor imagery while exposed to flickering video, number search tasks, news listening, eyes closed, vibro-tactile stimulation, or no distraction. The dataset comprises 504 trials per subject acquired across one calibration run and six feedback runs, providing a resource for investigating the robustness of motor imagery-based BCIs under realistic cognitive load.",
+  "methods_description": "EEG data were recorded from 16 healthy participants at 1000 Hz sampling rate using 63 channels with nose reference and two BrainAmp amplifiers (Brain Products). Participants completed one session consisting of seven runs of 72 trials each: one calibration run without feedback or distraction, followed by six feedback runs under different distraction conditions. Auditory cues indicated left or right hand motor imagery tasks with 4.5 s trial duration and 2.5 s inter-trial interval. Online classification employed Common Spatial Pattern (CSP) filtering with Linear Discriminant Analysis (LDA). Data were recorded using EasyCap Fast'n Easy Cap with Ag/AgCl wet sensors in standard 10-05 montage.",
   "license": "CC-BY-NC-ND-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -13,7 +13,10 @@
   },
   "keywords": [
     {
-      "term": "brain-computer interface"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
       "term": "motor imagery"
@@ -25,16 +28,24 @@
       "term": "distraction"
     },
     {
-      "term": "attention"
-    },
-    {
-      "term": "Common Spatial Pattern"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "open access"
     },
     {
       "term": "BCI"
+    },
+    {
+      "term": "cognitive load"
+    },
+    {
+      "term": "online feedback"
+    },
+    {
+      "term": "robustness"
     }
   ],
   "related_identifiers": [
@@ -91,5 +102,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "57d10430242ab6f10864d56d05a92bc2c07b88a56e4517bb44e1f75c793a80b5"
+  "source_hash": "26eaab5be4d6544d4174638fc39ee182c809839d7596eadf74a08449b8fc42fe"
 }
