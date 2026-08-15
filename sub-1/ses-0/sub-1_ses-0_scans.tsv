@@ -1,8 +1,8 @@
 ﻿filename	acq_time
-eeg/sub-1_ses-0_task-imagery_run-0_recording-calibration_eeg.bdf	2020-01-01T00:00:00.000000Z
-eeg/sub-1_ses-0_task-imagery_run-1_recording-clean_eeg.bdf	2020-01-01T00:00:00.000000Z
-eeg/sub-1_ses-0_task-imagery_run-2_recording-eyesclosed_eeg.bdf	2020-01-01T00:00:00.000000Z
-eeg/sub-1_ses-0_task-imagery_run-3_recording-news_eeg.bdf	2020-01-01T00:00:00.000000Z
-eeg/sub-1_ses-0_task-imagery_run-4_recording-numbers_eeg.bdf	2020-01-01T00:00:00.000000Z
-eeg/sub-1_ses-0_task-imagery_run-5_recording-flicker_eeg.bdf	2020-01-01T00:00:00.000000Z
-eeg/sub-1_ses-0_task-imagery_run-6_recording-stimulation_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-calibration_run-0_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-clean_run-1_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-eyesclosed_run-2_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-news_run-3_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-numbers_run-4_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-flicker_run-5_eeg.bdf	2020-01-01T00:00:00.000000Z
+eeg/sub-1_ses-0_task-imagery_acq-stimulation_run-6_eeg.bdf	2020-01-01T00:00:00.000000Z
